@@ -1,3 +1,6 @@
 {
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "f927efab2d08ad2820ab",
+  "githubSecret": "56d19ee9b69b02a552baeb98fd1149a6526be7d9",
+  "mongoURI": "mongodb+srv://emrecor:emreeray6718@cluster0.linh8wn.mongodb.net/"
 }
